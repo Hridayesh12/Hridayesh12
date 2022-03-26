@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hridayesh Padalkar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sickeningmyth7&label=Profile%20views&color=0e75b6&style=flat" alt="sickeningmyth7" /> </p>
 
-- 👀 I’m interested in **collabrating, coding and learning new things **
+- 👀 I’m interested in **collabrating, coding and learning new things**
 
 - 🌱 I’m currently learning **web development, data analytics and machine learning**
 
