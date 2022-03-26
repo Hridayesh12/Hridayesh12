@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hridayesh Padalkar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sickeningmyth7&label=Profile%20views&color=0e75b6&style=flat" alt="sickeningmyth7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sickeningmyth7" alt="sickeningmyth7" /></a> </p>
-
 - 👀 I’m interested in **collabrating, coding and learning new things **
 
 - 🌱 I’m currently learning **web development, data analytics and machine learning**
@@ -27,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sickeningmyth7&" alt="sickeningmyth7" /></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SickeningMyth7&theme=radical)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sickeningmyth7" alt="sickeningmyth7" /></a> </p>
