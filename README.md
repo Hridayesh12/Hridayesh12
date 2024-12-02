@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Svelte, React Native**
 
-- 👨‍💻 All of my projects are available at [https://hridayesh-xi.vercel.app/](https://hridayesh-xi.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://hridayeshpadalkar.in/](https://hridayeshpadalkar.in/)
 
 - 💬 Ask me about **react, express and mongodb**
 
