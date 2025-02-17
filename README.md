@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridayesh12" alt="hridayesh12" /></a> </p>
 
-- 🌱 I’m currently learning **Svelte, React Native**
+- 🌱 I’m currently learning **Svelte**
 
 - 👨‍💻 All of my projects are available at [https://hridayeshpadalkar.in/](https://hridayeshpadalkar.in/)
 
-- 💬 Ask me about **react, express and mongodb**
+- 💬 Ask me about **react, express, typescript and mongodb**
 
 - 📫 How to reach me **hridayeshpadalkar7@gmail.com**
 
